@@ -41,3 +41,7 @@ Stability – It checks if the application is stable under varying loads.
    
    ![Stress test screenshot](https://github.com/Sudipto971/Random-User-API-Performance-Test./assets/132764259/c9f603a2-116c-4715-b8f9-8a098ed4f71c)
 
+## Report:
+
+![Load   Stress Test](https://github.com/Sudipto971/Random-User-API-Performance-Test./assets/132764259/88e0c2a0-88b6-4325-b3a7-5d5cbe4e85c7)
+
